@@ -1,0 +1,2 @@
+#!/bin/bash
+python /root/HackRU-Fall-2016/src/twilioSMS.py
