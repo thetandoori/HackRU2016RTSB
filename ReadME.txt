@@ -2,7 +2,7 @@ Project Participants:
 	Rahul Tandon (rtandon08@gmail.com)
 	Samuel Baysting (samuelbaysting@gmail.com)
 
-Final File located in api folder. Files: twilio.py and google.py
+Final File located in bin folder. Files: twilioSMS.py and google.py
 Setting up local env: https://www.twilio.com/docs/quickstart/python/devenvironment
 
 Languages:
